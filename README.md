@@ -69,4 +69,4 @@ Verifique no terminal qual endereço está ativo.
 Link do vídeo no YouTube,
 mostrando a aplicação rodando localmente,
 com explicação das principais funcionalidades:
-[https://youtube.com/seuvideo](https://youtube.com/seuvideo)
+[https://youtu.be/y-4Q2edbc9Y](https://youtu.be/y-4Q2edbc9Y)
